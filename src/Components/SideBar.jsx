@@ -4,7 +4,6 @@ import {
     MessageCircleIcon, 
     PlusIcon, 
     SettingsIcon, 
-    User2Icon,
     Users, 
     
   } from "lucide-react";
