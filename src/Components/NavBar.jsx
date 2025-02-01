@@ -7,6 +7,7 @@ const NavBar = () => {
       <div className="h-[50px] flex items-center justify-between px-10 bg-white relative">
         {/* Project Name */}
         <div className="flex items-center">
+            
           <h1 className="font-bold text-lg">Project M.</h1>
         </div>
 
